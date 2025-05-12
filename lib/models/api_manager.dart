@@ -10,7 +10,7 @@ String drinkCartUri = "https://api.airtable.com/v0/appWGfuE25modmD0d/Drinks";
 String drinkOrderUri = "https://api.airtable.com/v0/appWGfuE25modmD0d/Orders";
 
 String _apiKey =
-    "patyjW8yHd1cIRrxQ.4ee43e8302ed9be89bb00ed74339af553528828a171ad4d79552b6149cc295af";
+    "api_key";
 
 Future<List> showGitMenu() async {
   List<Drink> menu = [];
